@@ -1,0 +1,102 @@
+xPaths:
+    types:
+        - appMain:
+              - name: mainfooterButtons
+                xPath: "//android.widget.TextView[@resource-id='android:id/text1']"
+              - name: mainSearchButton
+                xPath: "//android.widget.TextView[@resource-id='com.fineapp.yogiyo:id/tv_home_search']"
+              - name: mainHomeButton
+                xPath: "//android.widget.TextView[@text='홈']"
+              - name: mainAllCategoryButton
+                xPath: "//android.widget.TextView[@text='모두보기']"
+              - name: mainDetailAllCategoryButton
+                xPath: "//android.widget.TextView[@text='전체']"
+        - appCategory:
+              - name: categoryAddress
+                xPath: "//android.widget.TextView[@resource-id='com.fineapp.yogiyo:id/tv_address_info']"
+              - name: categoryAddressInput
+                xPath: "//android.widget.EditText[@resource-id='com.fineapp.yogiyo:id/et_search_keyword']"
+              - name: categoryAddressList
+                xPath: "//android.widget.TextView[@resource-id='com.fineapp.yogiyo:id/tv_road_address']"
+              - name: categoryAddressUpdateBottion
+                xPath: "//android.widget.TextView[@text='요기로 배달']"
+              - name: categoryAddressEmptyPage
+                xPath: "//android.widget.LinearLayout[@resource-id='com.fineapp.yogiyo:id/ll_empty_restaurant_list']"
+              - name: categoryAllMenu
+                xPath: "//android.widget.TextView[@text='전체']"
+              - name: categoryBestRestaurant
+                xPath: "//android.widget.TextView[@text='요기요 등록 맛집']"
+              - name: categoryInitFilter
+                xPath: "//android.widget.TextView[@text='초기화']"
+              - name: categoryRankingFilter
+                xPath: "//android.widget.TextView[@text='랭킹순']"
+              - name: categoryDiscountFilter
+                xPath: "//android.widget.TextView[@text='할인중']"
+              - name: categoryCleanFilter
+                xPath: "//android.widget.TextView[@text='위생안심']"
+              - name: categoryRestaurantGroup
+                xPath: "//androidx.recyclerview.widget.RecyclerView[@resource-id='com.fineapp.yogiyo:id/recycler_view']/android.view.ViewGroup"
+              - name: categoryTopDivider
+                xPath: "//android.view.View[@resource-id='com.fineapp.yogiyo:id/view_top_divider']"
+              - name: categorytodayLanking
+                xPath: "//android.widget.TextView[@resource-id='com.fineapp.yogiyo:id/tv_list_lane_title']"
+              - name: categorySection
+                xPath: "//android.widget.TextView[@resource-id='com.fineapp.yogiyo:id/tv_section_title']"
+              - name: categoryFilter
+                xPath: "//android.widget.TextView[@resource-id='com.fineapp.yogiyo:id/cl_restaurant_filter']"
+              - name: categoryFilterGroup
+                xPath: "//androidx.recyclerview.widget.RecyclerView[@resource-id='com.fineapp.yogiyo:id/rv_restaurant_list_filter']"
+        - appCategoryRestaurant:
+              - name: restaurantName
+                xPath: "//android.widget.TextView[@resource-id='com.fineapp.yogiyo:id/tv_restaurant_name']"
+              - name: starCount
+                xPath: "//android.widget.TextView[@resource-id='com.fineapp.yogiyo:id/tv_star_count']"
+              - name: newSale
+                xPath: "//android.widget.TextView[@text='요기 새로 입점했어요!']"
+              - name: review
+                xPath: "//android.widget.TextView[@resource-id='com.fineapp.yogiyo:id/tv_review']"
+              - name: distance
+                xPath: "//android.widget.TextView[@resource-id='com.fineapp.yogiyo:id/tv_distance']"
+              - name: takeout
+                xPath: "//android.widget.TextView[@resource-id='com.fineapp.yogiyo:id/tv_takeout_available']"
+              - name: deliveryTime
+                xPath: "//android.widget.TextView[@resource-id='com.fineapp.yogiyo:id/tv_estimated_time_to_ship_or_distance']"
+              - name: deliveryFee
+                xPath: "//android.widget.TextView[@resource-id='com.fineapp.yogiyo:id/tv_delivery_fee']"
+              - name: express
+                xPath: "//android.widget.TextView[@resource-id='com.fineapp.yogiyo:id/iv_stk_ygy_express']"
+              - name: clean
+                xPath: "//android.widget.ImageView[@resource-id='com.fineapp.yogiyo:id/iv_stk_hygiene']"
+              - name: discount
+                xPath: "//android.widget.TextView[@resource-id='com.fineapp.yogiyo:id/tv_discount_one']"
+              - name: restaurentStatus
+                xPath: "//android.widget.TextView[@resource-id='com.fineapp.yogiyo:id/tv_restaurant_status']"
+        - appDetailRestaurant:
+              - name: detailRestaurantStatus
+                xPath: "//android.widget.TextView[@resource-id='com.fineapp.yogiyo:id/tv_content']"
+        - appSearch:
+              - name: searchInput
+                xPath: "//android.widget.EditText[@resource-id='com.fineapp.yogiyo:id/et_keyword']"
+              - name: searchRestaurantNames
+                xPath: "//android.widget.TextView[@resource-id='com.fineapp.yogiyo:id/tv_restaurant_name']"
+        - appRestaurant:
+              - name: restaurantWishButton
+                xPath: "//android.view.View[@resource-id='com.fineapp.yogiyo:id/v_shop_detail_favorite_click']"
+              - name: restaurantWishCount
+                xPath: "//android.widget.TextView[@resource-id='com.fineapp.yogiyo:id/tv_shop_detail_favorite_count']"
+              - name: restaurantDetailMenuNames
+                xPath: "//android.view.ViewGroup[@resource-id='com.fineapp.yogiyo:id/cl_food_detail_menu']/android.widget.TextView[@resource-id='com.fineapp.yogiyo:id/tv_menu_name']"
+        - appWish:
+              - name: wishRestaurantGroup
+                xPath: "//androidx.recyclerview.widget.RecyclerView[@resource-id='com.fineapp.yogiyo:id/rv_favorite']/android.view.ViewGroup"
+              - name: wishRestaurantGroupName
+                xPath: "//android.widget.TextView[@resource-id='com.fineapp.yogiyo:id/tv_title']"
+              - name: wishRestaurantNames
+                xPath: "//android.widget.TextView[@resource-id='com.fineapp.yogiyo:id/tv_restaurant_name']"
+        - webMain:
+              - name: main
+                xPath: "//*[@class='logo pull-left']"
+              - name: mainThumnailText
+                xPath: "//*[@class='thumbnail']/div[text()='@Option']"
+              - name: mainSearch
+                xPath: "//*[@type='search']"

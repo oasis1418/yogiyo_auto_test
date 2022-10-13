@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "target": "ES2020" /* ES2020 버전의 Javascript 코드로 컴파일 한다. */,
+        "module": "ES2020" /* 모듈 불러오기, 내보내기 시스템을 ES2020으로 한다. (CommonJS가 Default이다.) */,
+        "allowJs": true /* TypeScript 프로젝트에서 Javascript 파일(*.js)도 사용할 수 있도록 한다. */,
+        "checkJs": false /* .js 파일의 오류 검사 여부 */,
+        "moduleResolution": "node" /* 모듈 해석 전략을 Node 방식으로 한다. (Classic이 Default이다.) */,
+        "esModuleInterop": true /* TypeScript 컴파일 시 모듈 번역 관련 옵션이다. */,
+        "sourceMap": true /* 컴파일 이전 코드의 오류를 추적할 수 있다. */,
+        "outDir": "dist",
+        "strict": true,
+        "types": ["node", "webdriverio/async"]
+    },
+    "ts-node": {
+        "esm": true
+    },
+    "include": ["*.ts", "src/**/*.ts", "src/config/log.config.js", "app.ts"] /* 컴파일에 포함되는 경로이다. */,
+    "exclude": ["node_modules", "dist/**/*.js"] /* 컴파일에 제외되는 경로이다. */
+}

@@ -1,0 +1,381 @@
+{"level":"info","message":"### Test Automation S T A R T ###########################"}
+{"level":"info","message":"### Test Target : App"}
+{"level":"info","message":"### Test Scenario Title : AppRestaurantListTestScenario"}
+{"level":"info","message":"[APP][메인] 앱 실행 후 메인 이동 (성공)"}
+{"level":"info","message":"[APP][메인] 메인에서 카테고리 이동 버튼 클릭 (성공)"}
+{"level":"info","message":"[APP][카테고리] 주소 정보 노출 확인 (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (1) : {\"restaurant\":\"레이어프로젝트\",\"starCount\":\"4.9\",\"review\":\"(1,048)\",\"distance\":\"1.4km\",\"deliveryTime\":\"24분\",\"deliveryFee\":\"배달요금 무료 2,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (2) : {\"restaurant\":\"미래향\",\"starCount\":\"4.5\",\"review\":\"(4,653)\",\"distance\":\"1.4km\",\"deliveryTime\":\"25~35분\",\"deliveryFee\":\"배달요금 1,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (3) : {\"restaurant\":\"두레반돼지국밥\",\"starCount\":\"4.8\",\"review\":\"(1,842)\",\"distance\":\"2.4km\",\"deliveryTime\":\"29분\",\"deliveryFee\":\"배달요금 1,000원 3,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (4) : {\"restaurant\":\"홍콩다방-선릉점\",\"starCount\":\"4.5\",\"review\":\"(2)\",\"distance\":\"1.2km\",\"deliveryTime\":\"23분\",\"deliveryFee\":\"배달요금 2,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (5) : {\"restaurant\":\"파스토보이-역삼점\",\"starCount\":\"4.8\",\"review\":\"(5,258)\",\"distance\":\"2.9km\",\"deliveryTime\":\"30~40분\",\"deliveryFee\":\"배달요금 무료~2,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (6) : {\"restaurant\":\"소풍김밥-한티점\",\"starCount\":\"4.8\",\"review\":\"(986)\",\"distance\":\"1.4km\",\"deliveryTime\":\"28분\",\"deliveryFee\":\"배달요금 1,000원 2,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (7) : {\"restaurant\":\"팔공티-한티점\",\"starCount\":\"4.9\",\"review\":\"(1,847)\",\"distance\":\"1.7km\",\"deliveryTime\":\"29분\",\"deliveryFee\":\"배달요금 무료 3,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (8) : {\"restaurant\":\"리칭24시-삼성점\",\"starCount\":\"4.7\",\"review\":\"(268)\",\"distance\":\"859m\",\"deliveryTime\":\"35~45분\",\"deliveryFee\":\"배달요금 1,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (9) : {\"restaurant\":\"33돼지야숯불돼지갈비&냉면\",\"starCount\":\"5.0\",\"review\":\"(6)\",\"distance\":\"2.4km\",\"deliveryTime\":\"27분\",\"deliveryFee\":\"배달요금 3,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (10) : {\"restaurant\":\"굽네치킨&피자-역삼2동점\",\"starCount\":\"4.6\",\"review\":\"(8,646)\",\"distance\":\"2.7km\",\"deliveryTime\":\"25~35분\",\"deliveryFee\":\"배달요금 3,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (11) : {\"restaurant\":\"냠냠족발&보쌈-강남역삼점\",\"starCount\":\"4.9\",\"review\":\"(305)\",\"distance\":\"2.5km\",\"deliveryTime\":\"42~52분\",\"deliveryFee\":\"배달요금 무료\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (12) : {\"restaurant\":\"칙바이칙-선릉역점\",\"starCount\":\"5.0\",\"review\":\"(146)\",\"distance\":\"1.6km\",\"deliveryTime\":\"29분\",\"deliveryFee\":\"배달요금 2,400원 3,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (13) : {\"restaurant\":\"카츠젠-선릉점\",\"starCount\":\"4.8\",\"review\":\"(602)\",\"distance\":\"1.5km\",\"deliveryTime\":\"28분\",\"deliveryFee\":\"배달요금 1,500원 3,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (14) : {\"restaurant\":\"감탄계숯불치킨-대치점\",\"starCount\":\"4.9\",\"review\":\"(449)\",\"distance\":\"1.6km\",\"deliveryTime\":\"51~61분\",\"deliveryFee\":\"배달요금 2,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (15) : {\"restaurant\":\"가유카페-강남점\",\"starCount\":\"4.9\",\"review\":\"(2,181)\",\"distance\":\"2.7km\",\"deliveryTime\":\"32분\",\"deliveryFee\":\"배달요금 2,500원 4,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (16) : {\"restaurant\":\"더피자-강남본점\",\"starCount\":\"4.9\",\"review\":\"(916)\",\"distance\":\"2.5km\",\"deliveryTime\":\"32분\",\"deliveryFee\":\"배달요금 무료 4,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (17) : {\"restaurant\":\"대치동제빵소\",\"starCount\":\"4.9\",\"review\":\"(1,254)\",\"distance\":\"1.2km\",\"deliveryTime\":\"23분\",\"deliveryFee\":\"배달요금 무료 2,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (18) : {\"restaurant\":\"빵빵떡볶이\",\"starCount\":\"4.9\",\"review\":\"(934)\",\"distance\":\"1.1km\",\"deliveryTime\":\"45~55분\",\"deliveryFee\":\"배달요금 무료~2,500원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (19) : {\"restaurant\":\"꽃돼지한식\",\"starCount\":\"4.5\",\"review\":\"(5,577)\",\"distance\":\"2.2km\",\"deliveryTime\":\"35~45분\",\"deliveryFee\":\"배달요금 2,500원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (20) : {\"restaurant\":\"강도시락\",\"starCount\":\"5.0\",\"review\":\"(4)\",\"distance\":\"2.0km\",\"deliveryTime\":\"26분\",\"deliveryFee\":\"배달요금 3,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (1) : {\"restaurant\":\"파스토보이-역삼점\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (2) : {\"restaurant\":\"기대만족-본점\",\"restaurantDiscount\":\"20% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (3) : {\"restaurant\":\"홍콩반점0410-선릉역점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (4) : {\"restaurant\":\"원할머니보쌈-잠실배달점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (5) : {\"restaurant\":\"굽네치킨&피자-역삼2동점\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (6) : {\"restaurant\":\"빅스타피자강남1호점\",\"restaurantDiscount\":\"8,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (7) : {\"restaurant\":\"감탄계숯불치킨-대치점\",\"restaurantDiscount\":\"10% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (8) : {\"restaurant\":\"빵빵떡볶이\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (9) : {\"restaurant\":\"골프존마켓-대치점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (10) : {\"restaurant\":\"피자알볼로-대치직영점\",\"restaurantDiscount\":\"6,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (11) : {\"restaurant\":\"빨간모자피자-대치점\",\"restaurantDiscount\":\"10% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (12) : {\"restaurant\":\"46이너스피자\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (13) : {\"restaurant\":\"놀부보쌈족발-삼성1호점\",\"restaurantDiscount\":\"2,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (14) : {\"restaurant\":\"에그드랍-한티역점\",\"restaurantDiscount\":\"4,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (15) : {\"restaurant\":\"KFC-대치동점\",\"restaurantDiscount\":\"5,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (16) : {\"restaurant\":\"에그드랍-선릉역점\",\"restaurantDiscount\":\"4,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (17) : {\"restaurant\":\"투썸플레이스-삼성역점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (18) : {\"restaurant\":\"원할머니보쌈-개포점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (19) : {\"restaurant\":\"또래오래-강남대치점\",\"restaurantDiscount\":\"4,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (20) : {\"restaurant\":\"골프존마켓-청담점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (1) : {\"restaurant\":\"미래향\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (2) : {\"restaurant\":\"두레반돼지국밥\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (3) : {\"restaurant\":\"비스트로피자-강남1호점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (4) : {\"restaurant\":\"뽕나무쟁이족발뽕족-선릉점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (5) : {\"restaurant\":\"굽네치킨&피자-역삼2동점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (6) : {\"restaurant\":\"카츠젠-선릉점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (7) : {\"restaurant\":\"가유카페-강남점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (8) : {\"restaurant\":\"더피자-강남본점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (9) : {\"restaurant\":\"리즈소바\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (10) : {\"restaurant\":\"감탄계숯불치킨-대치점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (11) : {\"restaurant\":\"꽃돼지한식\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (12) : {\"restaurant\":\"카페레이어&베이커리\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (13) : {\"restaurant\":\"마라의신마라탕&마라샹궈-대치점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (14) : {\"restaurant\":\"기대만족-본점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (15) : {\"restaurant\":\"스시마이우-선릉점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (16) : {\"restaurant\":\"아메리칸피자-강남논현점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (17) : {\"restaurant\":\"반올림피자샵-강남1호점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (18) : {\"restaurant\":\"빨간모자피자-대치점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (19) : {\"restaurant\":\"구구족-강남대치점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (20) : {\"restaurant\":\"제일제면소-삼성점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"### Test Automation S T A R T ###########################"}
+{"level":"info","message":"### Test Target : App"}
+{"level":"info","message":"### Test Scenario Title : AppRestaurantListTestScenario"}
+{"level":"info","message":"[APP][메인] 앱 실행 후 메인 이동 (성공)"}
+{"level":"info","message":"[APP][메인] 메인에서 카테고리 이동 버튼 클릭 (성공)"}
+{"level":"info","message":"[APP][카테고리] 주소 정보 노출 확인 (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant List 시나리오 테스트 (실패)"}
+{"level":"info","message":"### Test Automation S T A R T ###########################"}
+{"level":"info","message":"### Test Target : App"}
+{"level":"info","message":"### Test Scenario Title : AppRestaurantListTestScenario"}
+{"level":"info","message":"[APP][메인] 앱 실행 후 메인 이동 (성공)"}
+{"level":"info","message":"[APP][메인] 메인에서 카테고리 이동 버튼 클릭 (성공)"}
+{"level":"info","message":"[APP][카테고리] 주소 정보 노출 확인 (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant List 시나리오 테스트 (실패)"}
+{"level":"info","message":"### Test Automation S T A R T ###########################"}
+{"level":"info","message":"### Test Target : App"}
+{"level":"info","message":"### Test Scenario Title : AppRestaurantListTestScenario"}
+{"level":"info","message":"[APP][카테고리] Restaurant List 시나리오 테스트 (실패)"}
+{"level":"info","message":"### Test Automation S T A R T ###########################"}
+{"level":"info","message":"### Test Target : App"}
+{"level":"info","message":"### Test Scenario Title : AppRestaurantListTestScenario"}
+{"level":"info","message":"[APP][메인] 앱 실행 후 메인 이동 (성공)"}
+{"level":"info","message":"[APP][메인] 메인에서 카테고리 이동 버튼 클릭 (성공)"}
+{"level":"info","message":"[APP][카테고리] 주소 정보 노출 확인 (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 없을 경우 빈 페이지 노출 확인 (실패)"}
+{"level":"info","message":"### Test Automation S T A R T ###########################"}
+{"level":"info","message":"### Test Target : App"}
+{"level":"info","message":"### Test Scenario Title : AppRestaurantListTestScenario"}
+{"level":"info","message":"[APP][메인] 앱 실행 후 메인 이동 (성공)"}
+{"level":"info","message":"[APP][메인] 메인에서 카테고리 이동 버튼 클릭 (성공)"}
+{"level":"info","message":"[APP][카테고리] 주소 정보 노출 확인 (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (1) : {\"restaurant\":\"레이어프로젝트\",\"starCount\":\"4.9\",\"review\":\"(1,048)\",\"distance\":\"1.4km\",\"deliveryTime\":\"24분\",\"deliveryFee\":\"배달요금 무료 2,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (2) : {\"restaurant\":\"미래향\",\"starCount\":\"4.5\",\"review\":\"(4,653)\",\"distance\":\"1.4km\",\"deliveryTime\":\"25~35분\",\"deliveryFee\":\"배달요금 1,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (3) : {\"restaurant\":\"두레반돼지국밥\",\"starCount\":\"4.8\",\"review\":\"(1,843)\",\"distance\":\"2.4km\",\"deliveryTime\":\"29분\",\"deliveryFee\":\"배달요금 1,000원 3,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (4) : {\"restaurant\":\"향유랑\",\"starCount\":{},\"review\":\"요기 새로 입점했어요!\",\"distance\":\"2.3km\",\"deliveryTime\":\"27분\",\"deliveryFee\":\"배달요금 3,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (5) : {\"restaurant\":\"파스토보이-역삼점\",\"starCount\":\"4.8\",\"review\":\"(5,258)\",\"distance\":\"2.9km\",\"deliveryTime\":\"25~35분\",\"deliveryFee\":\"배달요금 무료~2,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (6) : {\"restaurant\":\"소풍김밥-한티점\",\"starCount\":\"4.8\",\"review\":\"(986)\",\"distance\":\"1.4km\",\"deliveryTime\":\"28분\",\"deliveryFee\":\"배달요금 1,000원 2,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (7) : {\"restaurant\":\"팔공티-한티점\",\"starCount\":\"4.9\",\"review\":\"(1,848)\",\"distance\":\"1.7km\",\"deliveryTime\":\"29분\",\"deliveryFee\":\"배달요금 무료 3,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (8) : {\"restaurant\":\"비스트로피자-강남1호점\",\"starCount\":\"4.9\",\"review\":\"(3,986)\",\"distance\":\"2.6km\",\"deliveryTime\":\"32분\",\"deliveryFee\":\"배달요금 900원 4,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (9) : {\"restaurant\":\"홍콩다방-선릉점\",\"starCount\":\"4.5\",\"review\":\"(2)\",\"distance\":\"1.2km\",\"deliveryTime\":\"23분\",\"deliveryFee\":\"배달요금 2,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (10) : {\"restaurant\":\"굽네치킨&피자-역삼2동점\",\"starCount\":\"4.6\",\"review\":\"(8,646)\",\"distance\":\"2.7km\",\"deliveryTime\":\"35~45분\",\"deliveryFee\":\"배달요금 3,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (11) : {\"restaurant\":\"리칭24시-삼성점\",\"starCount\":\"4.7\",\"review\":\"(268)\",\"distance\":\"859m\",\"deliveryTime\":\"33~43분\",\"deliveryFee\":\"배달요금 1,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (12) : {\"restaurant\":\"냠냠족발&보쌈-강남역삼점\",\"starCount\":\"4.9\",\"review\":\"(305)\",\"distance\":\"2.5km\",\"deliveryTime\":\"48~58분\",\"deliveryFee\":\"배달요금 무료\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (13) : {\"restaurant\":\"칙바이칙-선릉역점\",\"starCount\":\"5.0\",\"review\":\"(146)\",\"distance\":\"1.6km\",\"deliveryTime\":\"29분\",\"deliveryFee\":\"배달요금 2,400원 3,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (14) : {\"restaurant\":\"바로덮밥-역삼점\",\"starCount\":\"4.8\",\"review\":\"(144)\",\"distance\":\"2.5km\",\"deliveryTime\":\"44~54분\",\"deliveryFee\":\"배달요금 4,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (15) : {\"restaurant\":\"카츠젠-선릉점\",\"starCount\":\"4.8\",\"review\":\"(602)\",\"distance\":\"1.5km\",\"deliveryTime\":\"28분\",\"deliveryFee\":\"배달요금 1,500원 3,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (16) : {\"restaurant\":\"가유카페-강남점\",\"starCount\":\"4.9\",\"review\":\"(2,181)\",\"distance\":\"2.7km\",\"deliveryTime\":\"32분\",\"deliveryFee\":\"배달요금 2,500원 4,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (17) : {\"restaurant\":\"더피자-강남본점\",\"starCount\":\"4.9\",\"review\":\"(917)\",\"distance\":\"2.5km\",\"deliveryTime\":\"32분\",\"deliveryFee\":\"배달요금 무료 4,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (18) : {\"restaurant\":\"빵빵떡볶이\",\"starCount\":\"4.9\",\"review\":\"(934)\",\"distance\":\"1.1km\",\"deliveryTime\":\"45~55분\",\"deliveryFee\":\"배달요금 무료~2,500원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (19) : {\"restaurant\":\"혼밥대장-강남직영점\",\"starCount\":\"5.0\",\"review\":\"(651)\",\"distance\":\"2.8km\",\"deliveryTime\":\"55~65분\",\"deliveryFee\":\"배달요금 1,500원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (20) : {\"restaurant\":\"우동야마이루식\",\"starCount\":\"5.0\",\"review\":\"(5)\",\"distance\":\"2.4km\",\"deliveryTime\":\"27분\",\"deliveryFee\":\"배달요금 3,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (1) : {\"restaurant\":\"파스토보이-역삼점\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (2) : {\"restaurant\":\"기대만족-본점\",\"restaurantDiscount\":\"20% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (3) : {\"restaurant\":\"홍콩반점0410-선릉역점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (4) : {\"restaurant\":\"원할머니보쌈-잠실배달점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (5) : {\"restaurant\":\"굽네치킨&피자-역삼2동점\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (6) : {\"restaurant\":\"빅스타피자강남1호점\",\"restaurantDiscount\":\"8,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (7) : {\"restaurant\":\"바로덮밥-역삼점\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (8) : {\"restaurant\":\"빵빵떡볶이\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (9) : {\"restaurant\":\"골프존마켓-대치점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (10) : {\"restaurant\":\"피자알볼로-대치직영점\",\"restaurantDiscount\":\"6,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (11) : {\"restaurant\":\"빨간모자피자-대치점\",\"restaurantDiscount\":\"10% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (12) : {\"restaurant\":\"46이너스피자\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (13) : {\"restaurant\":\"놀부보쌈족발-삼성1호점\",\"restaurantDiscount\":\"2,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (14) : {\"restaurant\":\"KFC-대치동점\",\"restaurantDiscount\":\"5,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (15) : {\"restaurant\":\"에그드랍-선릉역점\",\"restaurantDiscount\":\"4,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (16) : {\"restaurant\":\"김영희동태찜-대치점\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (17) : {\"restaurant\":\"투썸플레이스-삼성역점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (18) : {\"restaurant\":\"원할머니보쌈-개포점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (19) : {\"restaurant\":\"또래오래-강남대치점\",\"restaurantDiscount\":\"4,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (20) : {\"restaurant\":\"골프존마켓-청담점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (1) : {\"restaurant\":\"미래향\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (2) : {\"restaurant\":\"두레반돼지국밥\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (3) : {\"restaurant\":\"비스트로피자-강남1호점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (4) : {\"restaurant\":\"뽕나무쟁이족발뽕족-선릉점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (5) : {\"restaurant\":\"굽네치킨&피자-역삼2동점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (6) : {\"restaurant\":\"카츠젠-선릉점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (7) : {\"restaurant\":\"가유카페-강남점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (8) : {\"restaurant\":\"더피자-강남본점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (9) : {\"restaurant\":\"리즈소바\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (10) : {\"restaurant\":\"빨간모자피자-대치점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (11) : {\"restaurant\":\"꽃돼지한식\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (12) : {\"restaurant\":\"카페레이어&베이커리\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (13) : {\"restaurant\":\"마라의신마라탕&마라샹궈-대치점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (14) : {\"restaurant\":\"기대만족-본점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (15) : {\"restaurant\":\"스시마이우-선릉점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (16) : {\"restaurant\":\"아메리칸피자-강남논현점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (17) : {\"restaurant\":\"반올림피자샵-강남1호점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (18) : {\"restaurant\":\"장모님이떴다-본점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (19) : {\"restaurant\":\"구구족-강남대치점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (20) : {\"restaurant\":\"제일제면소-삼성점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 없을 경우 빈 페이지 노출 확인 (실패)"}
+{"level":"info","message":"### Test Automation S T A R T ###########################"}
+{"level":"info","message":"### Test Target : App"}
+{"level":"info","message":"### Test Scenario Title : AppRestaurantListTestScenario"}
+{"level":"info","message":"[APP][카테고리] Restaurant List 시나리오 테스트 (실패)"}
+{"level":"info","message":"### Test Automation S T A R T ###########################"}
+{"level":"info","message":"### Test Target : App"}
+{"level":"info","message":"### Test Scenario Title : AppRestaurantListTestScenario"}
+{"level":"info","message":"[APP][메인] 앱 실행 후 메인 이동 (성공)"}
+{"level":"info","message":"[APP][메인] 메인에서 카테고리 이동 버튼 클릭 (성공)"}
+{"level":"info","message":"[APP][카테고리] 주소 정보 노출 확인 (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (1) : {\"restaurant\":\"레이어프로젝트\",\"starCount\":\"4.9\",\"review\":\"(1,048)\",\"distance\":\"1.4km\",\"deliveryTime\":\"24분\",\"deliveryFee\":\"배달요금 무료 2,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (2) : {\"restaurant\":\"미래향\",\"starCount\":\"4.5\",\"review\":\"(4,654)\",\"distance\":\"1.4km\",\"deliveryTime\":\"25~35분\",\"deliveryFee\":\"배달요금 1,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (3) : {\"restaurant\":\"두레반돼지국밥\",\"starCount\":\"4.8\",\"review\":\"(1,843)\",\"distance\":\"2.4km\",\"deliveryTime\":\"29분\",\"deliveryFee\":\"배달요금 1,000원 3,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (4) : {\"restaurant\":\"향유랑\",\"starCount\":{},\"review\":\"요기 새로 입점했어요!\",\"distance\":\"2.3km\",\"deliveryTime\":\"27분\",\"deliveryFee\":\"배달요금 3,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (5) : {\"restaurant\":\"파스토보이-역삼점\",\"starCount\":\"4.8\",\"review\":\"(5,258)\",\"distance\":\"2.9km\",\"deliveryTime\":\"30~40분\",\"deliveryFee\":\"배달요금 무료~2,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (6) : {\"restaurant\":\"소풍김밥-한티점\",\"starCount\":\"4.8\",\"review\":\"(986)\",\"distance\":\"1.4km\",\"deliveryTime\":\"28분\",\"deliveryFee\":\"배달요금 1,000원 2,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (7) : {\"restaurant\":\"팔공티-한티점\",\"starCount\":\"4.9\",\"review\":\"(1,848)\",\"distance\":\"1.7km\",\"deliveryTime\":\"29분\",\"deliveryFee\":\"배달요금 무료 3,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (8) : {\"restaurant\":\"비스트로피자-강남1호점\",\"starCount\":\"4.9\",\"review\":\"(3,986)\",\"distance\":\"2.6km\",\"deliveryTime\":\"32분\",\"deliveryFee\":\"배달요금 900원 4,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (9) : {\"restaurant\":\"홍콩다방-선릉점\",\"starCount\":\"4.5\",\"review\":\"(2)\",\"distance\":\"1.2km\",\"deliveryTime\":\"23분\",\"deliveryFee\":\"배달요금 2,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (10) : {\"restaurant\":\"굽네치킨&피자-역삼2동점\",\"starCount\":\"4.6\",\"review\":\"(8,646)\",\"distance\":\"2.7km\",\"deliveryTime\":\"35~45분\",\"deliveryFee\":\"배달요금 3,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (11) : {\"restaurant\":\"리칭24시-삼성점\",\"starCount\":\"4.7\",\"review\":\"(268)\",\"distance\":\"859m\",\"deliveryTime\":\"35~45분\",\"deliveryFee\":\"배달요금 1,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (12) : {\"restaurant\":\"냠냠족발&보쌈-강남역삼점\",\"starCount\":\"4.9\",\"review\":\"(305)\",\"distance\":\"2.5km\",\"deliveryTime\":\"48~58분\",\"deliveryFee\":\"배달요금 무료\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (13) : {\"restaurant\":\"칙바이칙-선릉역점\",\"starCount\":\"5.0\",\"review\":\"(146)\",\"distance\":\"1.6km\",\"deliveryTime\":\"29분\",\"deliveryFee\":\"배달요금 2,400원 3,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (14) : {\"restaurant\":\"바로덮밥-역삼점\",\"starCount\":\"4.8\",\"review\":\"(144)\",\"distance\":\"2.5km\",\"deliveryTime\":\"44~54분\",\"deliveryFee\":\"배달요금 4,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (15) : {\"restaurant\":\"카츠젠-선릉점\",\"starCount\":\"4.8\",\"review\":\"(602)\",\"distance\":\"1.5km\",\"deliveryTime\":\"28분\",\"deliveryFee\":\"배달요금 1,500원 3,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (16) : {\"restaurant\":\"가유카페-강남점\",\"starCount\":\"4.9\",\"review\":\"(2,181)\",\"distance\":\"2.7km\",\"deliveryTime\":\"32분\",\"deliveryFee\":\"배달요금 2,500원 4,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (17) : {\"restaurant\":\"더피자-강남본점\",\"starCount\":\"4.9\",\"review\":\"(917)\",\"distance\":\"2.5km\",\"deliveryTime\":\"32분\",\"deliveryFee\":\"배달요금 무료 4,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (18) : {\"restaurant\":\"빵빵떡볶이\",\"starCount\":\"4.9\",\"review\":\"(934)\",\"distance\":\"1.1km\",\"deliveryTime\":\"45~55분\",\"deliveryFee\":\"배달요금 무료~2,500원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (19) : {\"restaurant\":\"혼밥대장-강남직영점\",\"starCount\":\"5.0\",\"review\":\"(651)\",\"distance\":\"2.8km\",\"deliveryTime\":\"55~65분\",\"deliveryFee\":\"배달요금 1,500원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (20) : {\"restaurant\":\"우동야마이루식\",\"starCount\":\"5.0\",\"review\":\"(5)\",\"distance\":\"2.4km\",\"deliveryTime\":\"27분\",\"deliveryFee\":\"배달요금 3,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (1) : {\"restaurant\":\"파스토보이-역삼점\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (2) : {\"restaurant\":\"기대만족-본점\",\"restaurantDiscount\":\"20% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (3) : {\"restaurant\":\"홍콩반점0410-선릉역점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (4) : {\"restaurant\":\"원할머니보쌈-잠실배달점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (5) : {\"restaurant\":\"굽네치킨&피자-역삼2동점\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (6) : {\"restaurant\":\"빅스타피자강남1호점\",\"restaurantDiscount\":\"8,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (7) : {\"restaurant\":\"바로덮밥-역삼점\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (8) : {\"restaurant\":\"빵빵떡볶이\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (9) : {\"restaurant\":\"골프존마켓-대치점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (10) : {\"restaurant\":\"피자알볼로-대치직영점\",\"restaurantDiscount\":\"6,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (11) : {\"restaurant\":\"빨간모자피자-대치점\",\"restaurantDiscount\":\"10% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (12) : {\"restaurant\":\"46이너스피자\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (13) : {\"restaurant\":\"놀부보쌈족발-삼성1호점\",\"restaurantDiscount\":\"2,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (14) : {\"restaurant\":\"KFC-대치동점\",\"restaurantDiscount\":\"5,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (15) : {\"restaurant\":\"에그드랍-선릉역점\",\"restaurantDiscount\":\"4,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (16) : {\"restaurant\":\"김영희동태찜-대치점\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (17) : {\"restaurant\":\"투썸플레이스-삼성역점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (18) : {\"restaurant\":\"원할머니보쌈-개포점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (19) : {\"restaurant\":\"또래오래-강남대치점\",\"restaurantDiscount\":\"4,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (20) : {\"restaurant\":\"골프존마켓-청담점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (1) : {\"restaurant\":\"미래향\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (2) : {\"restaurant\":\"두레반돼지국밥\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (3) : {\"restaurant\":\"비스트로피자-강남1호점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (4) : {\"restaurant\":\"뽕나무쟁이족발뽕족-선릉점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (5) : {\"restaurant\":\"굽네치킨&피자-역삼2동점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (6) : {\"restaurant\":\"카츠젠-선릉점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (7) : {\"restaurant\":\"가유카페-강남점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (8) : {\"restaurant\":\"더피자-강남본점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (9) : {\"restaurant\":\"리즈소바\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (10) : {\"restaurant\":\"빨간모자피자-대치점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (11) : {\"restaurant\":\"꽃돼지한식\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (12) : {\"restaurant\":\"카페레이어&베이커리\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (13) : {\"restaurant\":\"마라의신마라탕&마라샹궈-대치점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (14) : {\"restaurant\":\"기대만족-본점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (15) : {\"restaurant\":\"스시마이우-선릉점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (16) : {\"restaurant\":\"아메리칸피자-강남논현점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (17) : {\"restaurant\":\"반올림피자샵-강남1호점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (18) : {\"restaurant\":\"장모님이떴다-본점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (19) : {\"restaurant\":\"구구족-강남대치점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (20) : {\"restaurant\":\"제일제면소-삼성점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 없을 경우 빈 페이지 노출 확인 (실패)"}
+{"level":"info","message":"### Test Automation S T A R T ###########################"}
+{"level":"info","message":"### Test Target : App"}
+{"level":"info","message":"### Test Scenario Title : AppRestaurantListTestScenario"}
+{"level":"info","message":"[APP][메인] 앱 실행 후 메인 이동 (성공)"}
+{"level":"info","message":"[APP][메인] 메인에서 카테고리 이동 버튼 클릭 (성공)"}
+{"level":"info","message":"[APP][카테고리] 주소 정보 노출 확인 (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (1) : {\"restaurant\":\"소림마라-모슬포점\",\"starCount\":\"4.8\",\"review\":\"(92)\",\"distance\":\"12.1km\",\"deliveryTime\":\"38~48분\",\"deliveryFee\":\"배달요금 3,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (2) : {\"restaurant\":\"오델리-O-Deli\",\"starCount\":\"4.6\",\"review\":\"(8)\",\"distance\":\"17.9km\",\"deliveryTime\":\"42~52분\",\"deliveryFee\":\"배달요금 3,500원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (3) : {\"restaurant\":\"티바두마리치킨-제주사계점\",\"starCount\":\"4.6\",\"review\":\"(61)\",\"distance\":\"14.9km\",\"deliveryTime\":\"42~52분\",\"deliveryFee\":\"배달요금 5,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (4) : {\"restaurant\":\"멕시카나-모슬포대정점\",\"starCount\":\"4.6\",\"review\":\"(102)\",\"distance\":\"11.9km\",\"deliveryTime\":\"42~52분\",\"deliveryFee\":\"배달요금 6,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant List 시나리오 테스트 (실패)"}
+{"level":"info","message":"### Test Automation S T A R T ###########################"}
+{"level":"info","message":"### Test Target : App"}
+{"level":"info","message":"### Test Scenario Title : AppRestaurantListTestScenario"}
+{"level":"info","message":"[APP][메인] 앱 실행 후 메인 이동 (성공)"}
+{"level":"info","message":"[APP][메인] 메인에서 카테고리 이동 버튼 클릭 (성공)"}
+{"level":"info","message":"[APP][카테고리] 주소 정보 노출 확인 (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (1) : {\"restaurant\":\"레이어프로젝트\",\"starCount\":\"4.9\",\"review\":\"(1,048)\",\"distance\":\"1.4km\",\"deliveryTime\":\"25분\",\"deliveryFee\":\"배달요금 무료 2,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (2) : {\"restaurant\":\"미래향\",\"starCount\":\"4.5\",\"review\":\"(4,654)\",\"distance\":\"1.4km\",\"deliveryTime\":\"25~35분\",\"deliveryFee\":\"배달요금 1,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (3) : {\"restaurant\":\"두레반돼지국밥\",\"starCount\":\"4.8\",\"review\":\"(1,844)\",\"distance\":\"2.4km\",\"deliveryTime\":\"30분\",\"deliveryFee\":\"배달요금 1,000원 3,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (4) : {\"restaurant\":\"향유랑\",\"starCount\":{},\"review\":\"요기 새로 입점했어요!\",\"distance\":\"2.3km\",\"deliveryTime\":\"28분\",\"deliveryFee\":\"배달요금 3,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (5) : {\"restaurant\":\"파스토보이-역삼점\",\"starCount\":\"4.8\",\"review\":\"(5,258)\",\"distance\":\"2.9km\",\"deliveryTime\":\"30~40분\",\"deliveryFee\":\"배달요금 무료~2,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (6) : {\"restaurant\":\"소풍김밥-한티점\",\"starCount\":\"4.8\",\"review\":\"(986)\",\"distance\":\"1.4km\",\"deliveryTime\":\"29분\",\"deliveryFee\":\"배달요금 1,000원 2,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (7) : {\"restaurant\":\"팔공티-한티점\",\"starCount\":\"4.9\",\"review\":\"(1,848)\",\"distance\":\"1.7km\",\"deliveryTime\":\"30분\",\"deliveryFee\":\"배달요금 무료 3,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (8) : {\"restaurant\":\"비스트로피자-강남1호점\",\"starCount\":\"4.9\",\"review\":\"(3,986)\",\"distance\":\"2.6km\",\"deliveryTime\":\"33분\",\"deliveryFee\":\"배달요금 900원 4,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (9) : {\"restaurant\":\"홍콩다방-선릉점\",\"starCount\":\"4.5\",\"review\":\"(2)\",\"distance\":\"1.2km\",\"deliveryTime\":\"24분\",\"deliveryFee\":\"배달요금 2,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (10) : {\"restaurant\":\"굽네치킨&피자-역삼2동점\",\"starCount\":\"4.6\",\"review\":\"(8,646)\",\"distance\":\"2.7km\",\"deliveryTime\":\"35~45분\",\"deliveryFee\":\"배달요금 3,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (11) : {\"restaurant\":\"리칭24시-삼성점\",\"starCount\":\"4.7\",\"review\":\"(268)\",\"distance\":\"859m\",\"deliveryTime\":\"35~45분\",\"deliveryFee\":\"배달요금 1,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (12) : {\"restaurant\":\"냠냠족발&보쌈-강남역삼점\",\"starCount\":\"4.9\",\"review\":\"(305)\",\"distance\":\"2.5km\",\"deliveryTime\":\"50~60분\",\"deliveryFee\":\"배달요금 무료\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (13) : {\"restaurant\":\"칙바이칙-선릉역점\",\"starCount\":\"5.0\",\"review\":\"(146)\",\"distance\":\"1.6km\",\"deliveryTime\":\"30분\",\"deliveryFee\":\"배달요금 2,400원 3,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (14) : {\"restaurant\":\"바로덮밥-역삼점\",\"starCount\":\"4.8\",\"review\":\"(144)\",\"distance\":\"2.5km\",\"deliveryTime\":\"46~56분\",\"deliveryFee\":\"배달요금 4,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (15) : {\"restaurant\":\"카츠젠-선릉점\",\"starCount\":\"4.8\",\"review\":\"(602)\",\"distance\":\"1.5km\",\"deliveryTime\":\"29분\",\"deliveryFee\":\"배달요금 1,500원 3,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (16) : {\"restaurant\":\"가유카페-강남점\",\"starCount\":\"4.9\",\"review\":\"(2,181)\",\"distance\":\"2.7km\",\"deliveryTime\":\"33분\",\"deliveryFee\":\"배달요금 2,500원 4,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (17) : {\"restaurant\":\"더피자-강남본점\",\"starCount\":\"4.9\",\"review\":\"(917)\",\"distance\":\"2.5km\",\"deliveryTime\":\"33분\",\"deliveryFee\":\"배달요금 무료 4,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (18) : {\"restaurant\":\"빵빵떡볶이\",\"starCount\":\"4.9\",\"review\":\"(934)\",\"distance\":\"1.1km\",\"deliveryTime\":\"45~55분\",\"deliveryFee\":\"배달요금 무료~2,500원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (19) : {\"restaurant\":\"혼밥대장-강남직영점\",\"starCount\":\"5.0\",\"review\":\"(651)\",\"distance\":\"2.8km\",\"deliveryTime\":\"55~65분\",\"deliveryFee\":\"배달요금 1,500원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (20) : {\"restaurant\":\"우동야마이루식\",\"starCount\":\"5.0\",\"review\":\"(5)\",\"distance\":\"2.4km\",\"deliveryTime\":\"28분\",\"deliveryFee\":\"배달요금 3,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (1) : {\"restaurant\":\"파스토보이-역삼점\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (2) : {\"restaurant\":\"기대만족-본점\",\"restaurantDiscount\":\"20% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (3) : {\"restaurant\":\"홍콩반점0410-선릉역점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (4) : {\"restaurant\":\"원할머니보쌈-잠실배달점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (5) : {\"restaurant\":\"굽네치킨&피자-역삼2동점\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (6) : {\"restaurant\":\"빅스타피자강남1호점\",\"restaurantDiscount\":\"8,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (7) : {\"restaurant\":\"바로덮밥-역삼점\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (8) : {\"restaurant\":\"빵빵떡볶이\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (9) : {\"restaurant\":\"골프존마켓-대치점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (10) : {\"restaurant\":\"피자알볼로-대치직영점\",\"restaurantDiscount\":\"6,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (11) : {\"restaurant\":\"빨간모자피자-대치점\",\"restaurantDiscount\":\"10% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (12) : {\"restaurant\":\"46이너스피자\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (13) : {\"restaurant\":\"놀부보쌈족발-삼성1호점\",\"restaurantDiscount\":\"2,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (14) : {\"restaurant\":\"KFC-대치동점\",\"restaurantDiscount\":\"5,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (15) : {\"restaurant\":\"에그드랍-선릉역점\",\"restaurantDiscount\":\"4,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (16) : {\"restaurant\":\"김영희동태찜-대치점\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (17) : {\"restaurant\":\"투썸플레이스-삼성역점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (18) : {\"restaurant\":\"원할머니보쌈-개포점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (19) : {\"restaurant\":\"또래오래-강남대치점\",\"restaurantDiscount\":\"4,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (20) : {\"restaurant\":\"골프존마켓-청담점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (1) : {\"restaurant\":\"미래향\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (2) : {\"restaurant\":\"두레반돼지국밥\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (3) : {\"restaurant\":\"비스트로피자-강남1호점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (4) : {\"restaurant\":\"뽕나무쟁이족발뽕족-선릉점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (5) : {\"restaurant\":\"굽네치킨&피자-역삼2동점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (6) : {\"restaurant\":\"카츠젠-선릉점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (7) : {\"restaurant\":\"가유카페-강남점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (8) : {\"restaurant\":\"더피자-강남본점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (9) : {\"restaurant\":\"리즈소바\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (10) : {\"restaurant\":\"빨간모자피자-대치점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (11) : {\"restaurant\":\"꽃돼지한식\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (12) : {\"restaurant\":\"카페레이어&베이커리\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (13) : {\"restaurant\":\"마라의신마라탕&마라샹궈-대치점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (14) : {\"restaurant\":\"기대만족-본점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (15) : {\"restaurant\":\"스시마이우-선릉점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (16) : {\"restaurant\":\"아메리칸피자-강남논현점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (17) : {\"restaurant\":\"반올림피자샵-강남1호점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (18) : {\"restaurant\":\"장모님이떴다-본점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (19) : {\"restaurant\":\"구구족-강남대치점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (20) : {\"restaurant\":\"제일제면소-삼성점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 없을 경우 빈 페이지 노출 확인 (실패)"}
+{"level":"info","message":"### Test Automation S T A R T ###########################"}
+{"level":"info","message":"### Test Target : App"}
+{"level":"info","message":"### Test Scenario Title : AppRestaurantListTestScenario"}
+{"level":"info","message":"### Test Automation S T A R T ###########################"}
+{"level":"info","message":"### Test Target : App"}
+{"level":"info","message":"### Test Scenario Title : AppRestaurantListTestScenario"}
+{"level":"info","message":"[APP][카테고리] Restaurant List 시나리오 테스트 (실패)"}
+{"level":"info","message":"### Test Automation S T A R T ###########################"}
+{"level":"info","message":"### Test Target : App"}
+{"level":"info","message":"### Test Scenario Title : AppRestaurantListTestScenario"}
+{"level":"info","message":"[APP][메인] 앱 실행 후 메인 이동 (성공)"}
+{"level":"info","message":"[APP][메인] 메인에서 카테고리 이동 버튼 클릭 (성공)"}
+{"level":"info","message":"[APP][카테고리] 주소 정보 노출 확인 (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (1) : {\"restaurant\":\"레이어프로젝트\",\"starCount\":\"4.9\",\"review\":\"(1,048)\",\"distance\":\"1.4km\",\"deliveryTime\":\"20분\",\"deliveryFee\":\"배달요금 무료 2,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (2) : {\"restaurant\":\"미래향\",\"starCount\":\"4.5\",\"review\":\"(4,654)\",\"distance\":\"1.4km\",\"deliveryTime\":\"20~30분\",\"deliveryFee\":\"배달요금 1,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (3) : {\"restaurant\":\"두레반돼지국밥\",\"starCount\":\"4.8\",\"review\":\"(1,844)\",\"distance\":\"2.4km\",\"deliveryTime\":\"25분\",\"deliveryFee\":\"배달요금 1,000원 3,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (4) : {\"restaurant\":\"오봉집-삼성점\",\"starCount\":{},\"review\":\"요기 새로 입점했어요!\",\"distance\":\"871m\",\"deliveryTime\":\"18분\",\"deliveryFee\":\"배달요금 2,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (5) : {\"restaurant\":\"굽네치킨&피자-역삼2동점\",\"starCount\":\"4.6\",\"review\":\"(8,646)\",\"distance\":\"2.7km\",\"deliveryTime\":\"29~39분\",\"deliveryFee\":\"배달요금 3,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (6) : {\"restaurant\":\"소풍김밥-한티점\",\"starCount\":\"4.8\",\"review\":\"(986)\",\"distance\":\"1.4km\",\"deliveryTime\":\"24분\",\"deliveryFee\":\"배달요금 1,000원 2,900원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (7) : {\"restaurant\":\"팔공티-한티점\",\"starCount\":\"4.9\",\"review\":\"(1,848)\",\"distance\":\"1.7km\",\"deliveryTime\":\"25분\",\"deliveryFee\":\"배달요금 무료 3,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (8) : {\"restaurant\":\"비스트로피자-강남1호점\",\"starCount\":\"4.9\",\"review\":\"(3,986)\",\"distance\":\"2.6km\",\"deliveryTime\":\"28분\",\"deliveryFee\":\"배달요금 900원 4,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (9) : {\"restaurant\":\"고망고망프리미엄망고-논현점\",\"starCount\":{},\"review\":\"요기 새로 입점했어요!\",\"distance\":\"2.8km\",\"deliveryTime\":\"43~53분\",\"deliveryFee\":\"배달요금 3,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (10) : {\"restaurant\":\"바로덮밥-역삼점\",\"starCount\":\"4.8\",\"review\":\"(144)\",\"distance\":\"2.5km\",\"deliveryTime\":\"47~57분\",\"deliveryFee\":\"배달요금 4,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (11) : {\"restaurant\":\"리칭24시-삼성점\",\"starCount\":\"4.7\",\"review\":\"(268)\",\"distance\":\"859m\",\"deliveryTime\":\"35~45분\",\"deliveryFee\":\"배달요금 1,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (12) : {\"restaurant\":\"파스토보이-역삼점\",\"starCount\":\"4.8\",\"review\":\"(5,258)\",\"distance\":\"2.9km\",\"deliveryTime\":\"25~35분\",\"deliveryFee\":\"배달요금 무료~2,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (13) : {\"restaurant\":\"냠냠족발&보쌈-강남역삼점\",\"starCount\":\"4.9\",\"review\":\"(305)\",\"distance\":\"2.5km\",\"deliveryTime\":\"50~60분\",\"deliveryFee\":\"배달요금 무료\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (14) : {\"restaurant\":\"빵빵떡볶이\",\"starCount\":\"4.9\",\"review\":\"(934)\",\"distance\":\"1.1km\",\"deliveryTime\":\"45~55분\",\"deliveryFee\":\"배달요금 무료~2,500원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (15) : {\"restaurant\":\"칙바이칙-선릉역점\",\"starCount\":\"5.0\",\"review\":\"(146)\",\"distance\":\"1.6km\",\"deliveryTime\":\"25분\",\"deliveryFee\":\"배달요금 2,400원 3,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (16) : {\"restaurant\":\"가유카페-강남점\",\"starCount\":\"4.9\",\"review\":\"(2,181)\",\"distance\":\"2.7km\",\"deliveryTime\":\"28분\",\"deliveryFee\":\"배달요금 2,500원 4,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (17) : {\"restaurant\":\"더피자-강남본점\",\"starCount\":\"4.9\",\"review\":\"(917)\",\"distance\":\"2.5km\",\"deliveryTime\":\"28분\",\"deliveryFee\":\"배달요금 무료 4,400원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (18) : {\"restaurant\":\"빨간모자피자-대치점\",\"starCount\":\"4.7\",\"review\":\"(240)\",\"distance\":\"1.3km\",\"deliveryTime\":\"55~65분\",\"deliveryFee\":\"배달요금 무료\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (19) : {\"restaurant\":\"혼밥대장-강남직영점\",\"starCount\":\"5.0\",\"review\":\"(652)\",\"distance\":\"2.8km\",\"deliveryTime\":\"55~65분\",\"deliveryFee\":\"배달요금 1,500원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] Restaurant 필수 값 노출 확인 (20) : {\"restaurant\":\"카페콩\",\"starCount\":{},\"review\":\"요기 새로 입점했어요!\",\"distance\":\"1.1km\",\"deliveryTime\":\"43~53분\",\"deliveryFee\":\"배달요금 4,000원\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (1) : {\"restaurant\":\"기대만족-본점\",\"restaurantDiscount\":\"20% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (2) : {\"restaurant\":\"홍콩반점0410-선릉역점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (3) : {\"restaurant\":\"굽네치킨&피자-역삼2동점\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (4) : {\"restaurant\":\"원할머니보쌈-잠실배달점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (5) : {\"restaurant\":\"빅스타피자강남1호점\",\"restaurantDiscount\":\"8,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (6) : {\"restaurant\":\"바로덮밥-역삼점\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (7) : {\"restaurant\":\"빵빵떡볶이\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (8) : {\"restaurant\":\"피자알볼로-대치직영점\",\"restaurantDiscount\":\"6,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (9) : {\"restaurant\":\"골프존마켓-대치점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (10) : {\"restaurant\":\"빨간모자피자-대치점\",\"restaurantDiscount\":\"10% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (11) : {\"restaurant\":\"46이너스피자\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (12) : {\"restaurant\":\"놀부보쌈족발-삼성1호점\",\"restaurantDiscount\":\"2,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (13) : {\"restaurant\":\"에그드랍-한티역점\",\"restaurantDiscount\":\"4,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (14) : {\"restaurant\":\"KFC-대치동점\",\"restaurantDiscount\":\"5,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (15) : {\"restaurant\":\"에그드랍-선릉역점\",\"restaurantDiscount\":\"4,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (16) : {\"restaurant\":\"김영희동태찜-대치점\",\"restaurantDiscount\":\"5% 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (17) : {\"restaurant\":\"투썸플레이스-삼성역점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (18) : {\"restaurant\":\"원할머니보쌈-개포점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (19) : {\"restaurant\":\"또래오래-강남대치점\",\"restaurantDiscount\":\"4,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 할인중 필터 기능 확인 (20) : {\"restaurant\":\"골프존마켓-청담점\",\"restaurantDiscount\":\"3,000원 할인\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (1) : {\"restaurant\":\"미래향\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (2) : {\"restaurant\":\"두레반돼지국밥\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (3) : {\"restaurant\":\"비스트로피자-강남1호점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (4) : {\"restaurant\":\"뽕나무쟁이족발뽕족-선릉점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (5) : {\"restaurant\":\"굽네치킨&피자-역삼2동점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (6) : {\"restaurant\":\"가유카페-강남점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (7) : {\"restaurant\":\"더피자-강남본점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (8) : {\"restaurant\":\"꽃돼지한식\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (9) : {\"restaurant\":\"리즈소바\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (10) : {\"restaurant\":\"빨간모자피자-대치점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (11) : {\"restaurant\":\"카페레이어&베이커리\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (12) : {\"restaurant\":\"마라의신마라탕&마라샹궈-대치점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (13) : {\"restaurant\":\"기대만족-본점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (14) : {\"restaurant\":\"스시마이우-선릉점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (15) : {\"restaurant\":\"아메리칸피자-강남논현점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (16) : {\"restaurant\":\"반올림피자샵-강남1호점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (17) : {\"restaurant\":\"구구족-강남대치점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (18) : {\"restaurant\":\"탑텐코리아푸드-역삼점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (19) : {\"restaurant\":\"떡순튀-강남논현점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 위생안심 필터 기능 확인 (20) : {\"restaurant\":\"제일제면소-삼성점\",\"restaurantClean\":\"위생안심\"} (성공)"}
+{"level":"info","message":"[APP][카테고리] 레스토랑 리스트 없을 경우 빈 페이지 노출 확인 (실패)"}
